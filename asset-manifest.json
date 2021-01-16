@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/pill-monitor.git/static/css/main.115f58bb.chunk.css",
+    "main.js": "/pill-monitor.git/static/js/main.c4207676.chunk.js",
+    "main.js.map": "/pill-monitor.git/static/js/main.c4207676.chunk.js.map",
+    "runtime-main.js": "/pill-monitor.git/static/js/runtime-main.9959b2db.js",
+    "runtime-main.js.map": "/pill-monitor.git/static/js/runtime-main.9959b2db.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/pill-monitor.git/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.8a374fbd.chunk.js": "/pill-monitor.git/static/js/2.8a374fbd.chunk.js",
+    "static/js/2.8a374fbd.chunk.js.map": "/pill-monitor.git/static/js/2.8a374fbd.chunk.js.map",
+    "static/js/3.487381ee.chunk.js": "/pill-monitor.git/static/js/3.487381ee.chunk.js",
+    "static/js/3.487381ee.chunk.js.map": "/pill-monitor.git/static/js/3.487381ee.chunk.js.map",
+    "index.html": "/pill-monitor.git/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/pill-monitor.git/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.115f58bb.chunk.css.map": "/pill-monitor.git/static/css/main.115f58bb.chunk.css.map",
+    "static/js/2.8a374fbd.chunk.js.LICENSE.txt": "/pill-monitor.git/static/js/2.8a374fbd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pill-monitor.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9959b2db.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.8a374fbd.chunk.js",
+    "static/css/main.115f58bb.chunk.css",
+    "static/js/main.c4207676.chunk.js"
+  ]
+}
